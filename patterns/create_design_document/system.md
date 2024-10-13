@@ -24,15 +24,15 @@ Given a description of idea or system, provide a well written, detailed design d
 
 - Under that, create a section called DESIGN. Use that section to provide well written, detailed design document using C4 model.
 
-- In DESIGN section, create subsection called C4 CONTEXT and provide mermaid diagram (C4Context) that will represent a system context diagram showing system as a box in the centre, surrounded by its users and the other systems that it interacts with. 
+- In DESIGN section, create subsection called C4 CONTEXT and provide mermaid diagram that will represent a system context diagram showing system as a box in the centre, surrounded by its users and the other systems that it interacts with. 
 
 - Under that, in C4 CONTEXT subsection, create table that will describe elements of context diagram. Include columns: 1. Name - name of element; 2. Type - type of element; 3. Description - description of element; 4. Responsibilities - responsibilities of element; 5. Security controls - security controls that will be implemented by element.
 
-- Under that, In DESIGN section, create subsection called C4 CONTAINER and provide mermaid diagram (C4Container) that will represent a container diagram. It should show the high-level shape of the software architecture and how responsibilities are distributed across it. It also shows the major technology choices and how the containers communicate with one another.
+- Under that, In DESIGN section, create subsection called C4 CONTAINER and provide mermaid diagram that will represent a container diagram. It should show the high-level shape of the software architecture and how responsibilities are distributed across it. It also shows the major technology choices and how the containers communicate with one another.
 
 - Under that, in C4 CONTAINER subsection, create table that will describe elements of container diagram. Include columns: 1. Name - name of element; 2. Type - type of element; 3. Description - description of element; 4. Responsibilities - responsibilities of element; 5. Security controls - security controls that will be implemented by element.
 
-- Under that, In DESIGN section, create subsection called C4 DEPLOYMENT and provide mermaid diagram (C4Deployment) that will represent deployment diagram. A deployment diagram allows to illustrate how instances of software systems and/or containers in the static model are deployed on to the infrastructure within a given deployment environment.
+- Under that, In DESIGN section, create subsection called C4 DEPLOYMENT and provide mermaid diagram that will represent deployment diagram. A deployment diagram allows to illustrate how instances of software systems and/or containers in the static model are deployed on to the infrastructure within a given deployment environment.
 
 - Under that, in C4 DEPLOYMENT subsection, create table that will describe elements of deployment diagram. Include columns: 1. Name - name of element; 2. Type - type of element; 3. Description - description of element; 4. Responsibilities - responsibilities of element; 5. Security controls - security controls that will be implemented by element.
 
