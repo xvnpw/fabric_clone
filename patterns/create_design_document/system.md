@@ -24,11 +24,11 @@ Given a description of idea or system, provide a well written, detailed design d
 
 - Under that, create a section called DESIGN. Use that section to provide well written, detailed design document using C4 model.
 
-- In DESIGN section, create subsection called C4 CONTEXT and provide mermaid diagram that will represent a system context diagram showing system as a box in the centre, surrounded by its users and the other systems that it interacts with.
+- In DESIGN section, create subsection called C4 CONTEXT and provide mermaid diagram (C4Context) that will represent a system context diagram showing system as a box in the centre, surrounded by its users and the other systems that it interacts with.
 
-- Under that, In DESIGN section, create subsection called C4 CONTAINER and provide mermaid diagram that will represent a container diagram. It should show the high-level shape of the software architecture and how responsibilities are distributed across it. It also shows the major technology choices and how the containers communicate with one another.
+- Under that, In DESIGN section, create subsection called C4 CONTAINER and provide mermaid diagram (C4Container) that will represent a container diagram. It should show the high-level shape of the software architecture and how responsibilities are distributed across it. It also shows the major technology choices and how the containers communicate with one another.
 
-- Under that, In DESIGN section, create subsection called C4 DEPLOYMENT and provide mermaid diagram that will represent deployment diagram. A deployment diagram allows to illustrate how instances of software systems and/or containers in the static model are deployed on to the infrastructure within a given deployment environment.
+- Under that, In DESIGN section, create subsection called C4 DEPLOYMENT and provide mermaid diagram (C4Deployment) that will represent deployment diagram. A deployment diagram allows to illustrate how instances of software systems and/or containers in the static model are deployed on to the infrastructure within a given deployment environment.
 
 - Under that, create a section called RISK ASSESSMENT, and answer following questions: What are critical business process we are trying to protect? What data we are trying to protect and what is their sensitivity? 
 
